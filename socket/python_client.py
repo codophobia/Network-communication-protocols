@@ -22,5 +22,8 @@ def add_numbers(a, b):
 
 if __name__ == '__main__':
     # Test the client
+    num1 = 5
+    num2 = 7
+    print(f"Request: {num1} + {num2}")
     output = add_numbers(5, 7)
-    print(f"The result is: {output}")
+    print(f"Result: {output}")
