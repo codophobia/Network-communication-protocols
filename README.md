@@ -18,6 +18,10 @@ In another terminal, run the client.
 ```
 python rpc/python_client.py
 ```
+Generate client stubs
+```
+python -m grpc_tools.protoc --proto_path=rpc/proto --python_out=rpc/proto/gen/py  --pyi_out=rpc/proto/gen/py --grpc_python_out=rpc/proto/gen/py rpc/proto/calculator.proto
+```
 
 ## Running REST client and server
 ```
