@@ -1,5 +1,7 @@
 # Popular network communication protocols
 
+[![lint](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml) [![test](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml)
+
 ## Set up
 ```
 git clone https://github.com/codophobia/rest-vs-rpc.git
