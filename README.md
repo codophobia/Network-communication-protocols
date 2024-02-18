@@ -1,4 +1,4 @@
-# rest-vs-rpc
+# Popular network communication protocols
 
 ## Set up
 ```
