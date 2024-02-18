@@ -3,7 +3,6 @@
 [![lint](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml) [![test](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml) ![GitHub License](https://img.shields.io/github/license/codophobia/Network-communication-protocols) ![GitHub top language](https://img.shields.io/github/languages/top/codophobia/Network-communication-protocols)
 
 
-
 ## Set up
 ```
 git clone https://github.com/codophobia/rest-vs-rpc.git
