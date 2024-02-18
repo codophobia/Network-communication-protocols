@@ -18,7 +18,7 @@ def run():
         print("Result:", response.result)
     except grpc.RpcError as e:
         print(e.details())
-        print(e.code())        
+        print(e.code())
 
 
 if __name__ == '__main__':
