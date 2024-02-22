@@ -2,6 +2,7 @@
 
 [![lint](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/lint.yaml) [![test](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml/badge.svg)](https://github.com/codophobia/Network-communication-protocols/actions/workflows/test.yaml) ![GitHub License](https://img.shields.io/github/license/codophobia/Network-communication-protocols) ![GitHub top language](https://img.shields.io/github/languages/top/codophobia/Network-communication-protocols)
 
+Code examples in Python to understand popular network communication protocols like TCP, HTTP and RPC
 
 ## Set up
 ```
